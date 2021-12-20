@@ -1,0 +1,4 @@
+Collecting msgpack
+  Downloading msgpack-1.0.2-cp38-cp38-win_amd64.whl (69 kB)
+Installing collected packages: msgpack
+Successfully installed msgpack-1.0.2

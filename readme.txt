@@ -1,0 +1,2 @@
+运行webservice下的Photo2UnicodeService.py即可
+python Photo2UnicodeService.py
