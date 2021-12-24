@@ -1,2 +1,4 @@
+安装requirements.txt依赖
 运行webservice下的Photo2UnicodeService.py即可
 python Photo2UnicodeService.py
+运行python Photo2UnicodeClient.py可用来测试
